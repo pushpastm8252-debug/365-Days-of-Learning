@@ -1,0 +1,7 @@
+print("======Rectangle Area Calculator======")
+length=int(input("Enter the length:"))
+print("length:",length)
+width=int(input("Enter the width:"))
+print("width:",width)
+areaofrectangle=(length*width)
+print("Area of rectangle is:",areaofrectangle)

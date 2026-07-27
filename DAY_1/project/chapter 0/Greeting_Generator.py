@@ -1,0 +1,6 @@
+name=input("Enter your name:")
+print("\n🌸Welcome🌸")
+print("Hello",name)
+print("Welcome to the 365 Days of journey🚀")
+print("Have a great day and keep learning!")
+print("Best of Luck!😊")

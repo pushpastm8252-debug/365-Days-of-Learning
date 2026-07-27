@@ -1,0 +1,5 @@
+print("helloworld")
+print("hello\nworld")
+print("hello world\n")
+print("hello")
+print("world")

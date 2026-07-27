@@ -1,0 +1,13 @@
+print("=======Number Swapping Program======")
+print("Befor swapping")
+num1=int(input("Enter the first number:"))
+print("First Number:",num1)
+num2=int(input("Enter the second number:"))
+print("Second Number:",num2)
+print("Befor swapping")
+print("First Number:",num1)
+print("Second Number:",num2)
+num1,num2=num2,num1
+print("After Swapping")
+print("First Number:",num1)
+print("Second Number:",num2)
