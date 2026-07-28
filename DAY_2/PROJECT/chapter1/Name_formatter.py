@@ -1,0 +1,7 @@
+print("======Name Formatter======")
+name=input("Enter the name:")
+print("orinal name:",name)
+print("uppercase:",name.upper())
+print("Lowercase:",name.lower())
+print("Title case:",name.title())
+print("capitalized:",name.capitalize())

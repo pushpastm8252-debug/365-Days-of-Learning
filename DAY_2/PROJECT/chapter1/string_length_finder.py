@@ -1,0 +1,5 @@
+print("=======String length finder========")
+text=input("enter a string:")
+length=len(text)
+print("the string is",text)
+print("length of the string is:",length)
