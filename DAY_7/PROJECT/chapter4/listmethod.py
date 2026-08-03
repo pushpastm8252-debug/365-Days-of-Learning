@@ -1,0 +1,20 @@
+#medhod in list
+#indexing
+marks=[99,100,90,95]
+print(marks[1])
+print(marks)
+marks[1]=97
+print(marks[1])
+print(marks)
+#slicing
+print(marks[1:3])
+print(max(marks))
+print(min(marks))
+marks.append(90)
+print(marks)
+marks.sort()
+print(marks)
+marks.reverse()
+print(marks)
+marks.pop(2)
+print(marks)
